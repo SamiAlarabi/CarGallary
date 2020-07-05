@@ -1,0 +1,56 @@
+body{
+    background-color: #f2f2f2;
+    
+}
+
+.container{
+    width: 100%;
+    height: 50%;
+   
+
+}
+.conatct .info{
+    width: 50%;
+    margin-right: right 5%;
+    float: left;
+}
+.conatct .form{
+    width: 45%;
+    float: left;
+}
+.conatct .form label{
+    display:block;
+    margin: 10px 0px;
+}
+.conatct .form input[type="Email"] {
+    background-color: #343a40;
+    color: white;
+    padding: 10px;
+    border: 0px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+.conatct .form input[type="text"] {
+    background-color: #343a40;
+    color: white;
+    padding: 10px;
+    border: 0px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+.conatct .form textarea {
+    background-color: #343a40;
+    color: white;
+    padding: 10px;
+    border: 0px;
+    width: 80%;
+    margin-bottom: 10px;
+    height: 300px;
+}
+.conatct .form input[type="submit"] {
+    background-color: #343a40;
+    color:white;
+    padding: 10px 35px;
+    border: 0;
+    margin-top: 10px;
+}
